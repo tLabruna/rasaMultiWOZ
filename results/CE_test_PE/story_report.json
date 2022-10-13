@@ -1,0 +1,6183 @@
+{
+  "[0215](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1135](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[arrive at the restaurant on time](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Rinascente](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 6
+  },
+  "[hotel](Hotel-Type)": {
+    "precision": 0.7,
+    "recall": 0.8823529411764706,
+    "f1-score": 0.7806691449814126,
+    "support": 119
+  },
+  "[museo nazionale di palazzo reale](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[centre](Hotel-Area)": {
+    "precision": 0.8,
+    "recall": 0.75,
+    "f1-score": 0.7741935483870969,
+    "support": 16
+  },
+  "[same number of people](Train-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[architectural](Attraction-Type)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "[TR1923](Train-Id)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Moderate](Hotel-Price)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[lucca](Train-Dest)": {
+    "precision": 0.875,
+    "recall": 0.875,
+    "f1-score": 0.875,
+    "support": 8
+  },
+  "[1630](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 7
+  },
+  "[thursday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.9666666666666667,
+    "f1-score": 0.983050847457627,
+    "support": 30
+  },
+  "[Ristorante La Grotta](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[afternoon tea](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform+Restaurant-Inform+Taxi-Request+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[green park resort](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Giardino Scotto](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Attraction-Inform+Attraction-Request": {
+    "precision": 0.38461538461538464,
+    "recall": 0.18518518518518517,
+    "f1-score": 0.25,
+    "support": 54
+  },
+  "[2115](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Wednesday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "[Sarzana](Train-Depart)": {
+    "precision": 0.9,
+    "recall": 1.0,
+    "f1-score": 0.9473684210526316,
+    "support": 9
+  },
+  "[930](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0930](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[south](Hotel-Area)": {
+    "precision": 0.6923076923076923,
+    "recall": 1.0,
+    "f1-score": 0.8181818181818181,
+    "support": 9
+  },
+  "[0815](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform+Hotel-Inform+Restaurant-Inform": {
+    "precision": 0.5,
+    "recall": 0.16666666666666666,
+    "f1-score": 0.25,
+    "support": 6
+  },
+  "[thursday](Restaurant-Day)": {
+    "precision": 0.9,
+    "recall": 1.0,
+    "f1-score": 0.9473684210526316,
+    "support": 9
+  },
+  "[same areas](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Dipartimento di Civilt#u00e0 e Forme del Sapere](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Pinacoteca e museo civico di Volterra](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Pizzeria La Scaletta](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1645](Taxi-Arrive)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[0915](Train-Leave)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 1
+  },
+  "[swimmingpool](Attraction-Type)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "Hotel-Inform+Attraction-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[camposanto monumentale](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[antica trattoria da bruno](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Museo Piaggio Giovanni Alberto Agnelli](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 3
+  },
+  "[1935](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Restaurant-Inform+Restaurant-NoOffer": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1215](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[cheaper](Restaurant-Price)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[friday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 31
+  },
+  "[0945](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[brazilian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1515](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1800](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "utter_cheer_up": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[center](Hotel-Area)": {
+    "precision": 1.0,
+    "recall": 0.5555555555555556,
+    "f1-score": 0.7142857142857143,
+    "support": 9
+  },
+  "[Cheap](Hotel-Price)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[museo delle attivit#u00e0 agricole di usigliano di lari](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0245](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1945](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[does n't matter](Hotel-Price)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[same group of people](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[five](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1030](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[lup -polpetteria&ristorante](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Enoteca Vecchio Frantoio](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "Restaurant-Request+Restaurant-Inform": {
+    "precision": 0.10526315789473684,
+    "recall": 0.26666666666666666,
+    "f1-score": 0.1509433962264151,
+    "support": 15
+  },
+  "Train-Inform+Train-OfferBook": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[La Taverna di Pulcinella](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[sunday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[osteria](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.5384615384615384,
+    "f1-score": 0.7000000000000001,
+    "support": 13
+  },
+  "[Triclinivm Taverna Romana](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Bagno Imperiale](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Monday](Restaurant-Day)": {
+    "precision": 0.8947368421052632,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.918918918918919,
+    "support": 18
+  },
+  "Taxi-Request+Taxi-Inform": {
+    "precision": 0.07142857142857142,
+    "recall": 0.5,
+    "f1-score": 0.125,
+    "support": 2
+  },
+  "[does n't matter](Restaurant-Food)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[South](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[515](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Cecina](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[Lungarno Gambacorti](Attraction-Addr)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Helvetia](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante La Buca](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[lucca](Train-Depart)": {
+    "precision": 0.8888888888888888,
+    "recall": 1.0,
+    "f1-score": 0.9411764705882353,
+    "support": 8
+  },
+  "[two](Hotel-Stay)": {
+    "precision": 0.8888888888888888,
+    "recall": 1.0,
+    "f1-score": 0.9411764705882353,
+    "support": 8
+  },
+  "[La Terrazza Sul Borgo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[hungarian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Thursday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11
+  },
+  "[1215](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[1751](Train-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[La Torre](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[pizza hut fen ditton](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[guesthouse](Hotel-Type)": {
+    "precision": 0.9883720930232558,
+    "recall": 0.9659090909090909,
+    "f1-score": 0.9770114942528736,
+    "support": 88
+  },
+  "[Ristorante Da Beppino Di Senes Angelo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Barlume Caf#u00e9](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "[Antica Osteria Al Castello](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "general-thank": {
+    "precision": 0.9717114568599717,
+    "recall": 0.9913419913419913,
+    "f1-score": 0.9814285714285714,
+    "support": 693
+  },
+  "[teatro verdi](Taxi-Depart)": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 2
+  },
+  "[park](Attraction-Type)": {
+    "precision": 0.8181818181818182,
+    "recall": 1.0,
+    "f1-score": 0.9,
+    "support": 9
+  },
+  "general-thank+Taxi-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1145](Train-Arrive)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "[same day](Restaurant-Day)": {
+    "precision": 0.8461538461538461,
+    "recall": 1.0,
+    "f1-score": 0.9166666666666666,
+    "support": 11
+  },
+  "[945](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform+Taxi-Request": {
+    "precision": 0.5714285714285714,
+    "recall": 0.2857142857142857,
+    "f1-score": 0.38095238095238093,
+    "support": 14
+  },
+  "[Ristorante Trattoria da Mario](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "Restaurant-Request": {
+    "precision": 0.3488372093023256,
+    "recall": 0.5294117647058824,
+    "f1-score": 0.4205607476635514,
+    "support": 85
+  },
+  "[the museum](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[massa centro](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 6
+  },
+  "[Saturday](Restaurant-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14
+  },
+  "[Dipartimento di Scienze Veterinarie](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[west](Attraction-Area)": {
+    "precision": 0.9629629629629629,
+    "recall": 0.8666666666666667,
+    "f1-score": 0.912280701754386,
+    "support": 30
+  },
+  "[the place](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Booking-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[3](Hotel-Stay)": {
+    "precision": 0.8292682926829268,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.883116883116883,
+    "support": 36
+  },
+  "[315](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Trattoria Pizzeria Il Ponte](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Sali Scendi Risto Mex Pub](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[three](Hotel-People)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "utter_happy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1300](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "Restaurant-Inform+Attraction-Request+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Borderline Club](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[saturday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[Wednesday](Restaurant-Day)": {
+    "precision": 0.8666666666666667,
+    "recall": 1.0,
+    "f1-score": 0.9285714285714286,
+    "support": 13
+  },
+  "[Expensive](Restaurant-Price)": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 2
+  },
+  "[firenze s. m. novella](Train-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8
+  },
+  "[Museum of Science](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_Restaurant-Request": {
+    "precision": 0.6064814814814815,
+    "recall": 0.6121495327102804,
+    "f1-score": 0.6093023255813954,
+    "support": 214
+  },
+  "[hotels](Hotel-Type)": {
+    "precision": 0.5,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.64,
+    "support": 9
+  },
+  "[0215](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "mood_great": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Train-Inform+general-thank": {
+    "precision": 0.5,
+    "recall": 0.75,
+    "f1-score": 0.6,
+    "support": 4
+  },
+  "[same number of people](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[corsica](Restaurant-Food)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "Restaurant-Inform+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Inform": {
+    "precision": 0.8942857142857142,
+    "recall": 0.8930099857346647,
+    "f1-score": 0.8936473947180585,
+    "support": 701
+  },
+  "[1230](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[La Taverna di Pulcinella](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1130](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[ristorante trattoria da mario](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0815](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "utter_Attraction-Request": {
+    "precision": 0.4956521739130435,
+    "recall": 0.5277777777777778,
+    "f1-score": 0.5112107623318385,
+    "support": 108
+  },
+  "[1300](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[Ristorante Quattro Gigli](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[Chiesa di San Frediano](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Eclectic](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[same day and party](Restaurant-People)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1115](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6
+  },
+  "[pool](Attraction-Type)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Vito Re Della Pizza](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[tavern](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 15
+  },
+  "utter_Booking-Book": {
+    "precision": 0.3087248322147651,
+    "recall": 0.3026315789473684,
+    "f1-score": 0.30564784053156147,
+    "support": 152
+  },
+  "[moderately](Restaurant-Price)": {
+    "precision": 0.9545454545454546,
+    "recall": 1.0,
+    "f1-score": 0.9767441860465117,
+    "support": 21
+  },
+  "[2000](Train-Arrive)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[pizzeria](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.7931034482758621,
+    "f1-score": 0.8846153846153846,
+    "support": 29
+  },
+  "[five](Train-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_general": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 33
+  },
+  "[A Casa A Pisa](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Restaurant-Request+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1130](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[the reservation time](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[The Gallery at Twelve](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Train-Inform+Train-Request": {
+    "precision": 0.8048780487804879,
+    "recall": 0.32673267326732675,
+    "f1-score": 0.4647887323943662,
+    "support": 101
+  },
+  "Restaurant-Inform+general-thank": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[antica trattoria da bruno](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Teatro del Silenzio](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[teatro sant'andrea](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria La Toscana](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "utter_Restaurant-Inform": {
+    "precision": 0.30538922155688625,
+    "recall": 0.3591549295774648,
+    "f1-score": 0.3300970873786408,
+    "support": 142
+  },
+  "[firenze s. m. novella](Train-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6
+  },
+  "[Il Pineto Parco Avventura](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[900](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Chiesa di Santa Maria della Spina](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7
+  },
+  "[1945](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[1530](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "action_listen": {
+    "precision": 0.9993920972644377,
+    "recall": 1.0,
+    "f1-score": 0.9996959562176954,
+    "support": 4932
+  },
+  "[2115](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[German](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[moderate](Hotel-Price)": {
+    "precision": 0.75,
+    "recall": 0.8709677419354839,
+    "f1-score": 0.8059701492537312,
+    "support": 31
+  },
+  "[1345](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[do n't care](Hotel-Area)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria Del Cavaiolo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Lucca](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 12
+  },
+  "[same group of people](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "Hotel-Inform+Taxi-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1715](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "bot_challenge": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[bologna centrale](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 9
+  },
+  "[Pistoia](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 12
+  },
+  "[1915](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[1630](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Teatro Verdi](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Request+Train-Request+Hotel-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Centre](Hotel-Area)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[friday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1615](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[south](Attraction-Area)": {
+    "precision": 0.9230769230769231,
+    "recall": 1.0,
+    "f1-score": 0.9600000000000001,
+    "support": 12
+  },
+  "[tuesday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 33
+  },
+  "[1830](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[tuestday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[friday](Restaurant-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 15
+  },
+  "[Sri Lankan](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Terminus & Plaza](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[Bottega E Ristoro Da'R Gallo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[moderate](Restaurant-Price)": {
+    "precision": 0.875,
+    "recall": 0.7567567567567568,
+    "f1-score": 0.8115942028985507,
+    "support": 37
+  },
+  "[Osteria Dei Poeti Volterra](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[pisa centrale](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.5540540540540541,
+    "f1-score": 0.7130434782608697,
+    "support": 148
+  },
+  "[middle-eastern](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[theatre](Attraction-Type)": {
+    "precision": 0.8823529411764706,
+    "recall": 1.0,
+    "f1-score": 0.9375,
+    "support": 15
+  },
+  "[1930](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform+Police-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[six](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "utter_Attraction-Inform": {
+    "precision": 0.4897959183673469,
+    "recall": 0.45627376425855515,
+    "f1-score": 0.47244094488188976,
+    "support": 263
+  },
+  "[Molecular gastronomy](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1500](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[0400](Taxi-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria Vecchia Noce](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Scalo Roncioni](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[do not care](Restaurant-Price)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0830](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Ristorante L'Artilafo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Terminus & Plaza](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0830](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[novecento](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0830](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[La Pace](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Inform+Train-Inform": {
+    "precision": 0.25,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.28571428571428575,
+    "support": 3
+  },
+  "[Ristorante Ni Hao](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[7 pm](Restaurant-Time)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Restaurant-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1100](Restaurant-Time)": {
+    "precision": 0.8,
+    "recall": 0.8,
+    "f1-score": 0.8000000000000002,
+    "support": 5
+  },
+  "[same price range](Restaurant-Price)": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9090909090909091,
+    "support": 5
+  },
+  "[principi di piemonte](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[ristorante giapponese ijy](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1330](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1945](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[nightclubs](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "Train-Request+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1539](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[monday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1100](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[free](Attraction-Fee)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[la taverna di emma](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[ristorante il barrino](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[4](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 0.8928571428571429,
+    "f1-score": 0.9433962264150945,
+    "support": 28
+  },
+  "general-greet+Attraction-Recommend": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Bologna Centrale](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.1875,
+    "f1-score": 0.3157894736842105,
+    "support": 16
+  },
+  "[Museo dell'Opera del Duomo](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2245](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[swimming pools](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[guesthouses](Hotel-Type)": {
+    "precision": 0.7142857142857143,
+    "recall": 1.0,
+    "f1-score": 0.8333333333333333,
+    "support": 5
+  },
+  "[concert halls](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Pizzeria L'Arciere](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Sunday](Restaurant-Day)": {
+    "precision": 0.9375,
+    "recall": 1.0,
+    "f1-score": 0.967741935483871,
+    "support": 15
+  },
+  "utter_Booking-NoBook": {
+    "precision": 0.275,
+    "recall": 0.13414634146341464,
+    "f1-score": 0.18032786885245902,
+    "support": 82
+  },
+  "[tr3948](Train-Id)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[east](Attraction-Area)": {
+    "precision": 0.95,
+    "recall": 0.8636363636363636,
+    "f1-score": 0.9047619047619048,
+    "support": 22
+  },
+  "utter_Hotel-Request": {
+    "precision": 0.4458874458874459,
+    "recall": 0.6358024691358025,
+    "f1-score": 0.5241730279898219,
+    "support": 162
+  },
+  "[1015](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[campiglia marittima](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.6,
+    "f1-score": 0.7499999999999999,
+    "support": 10
+  },
+  "Taxi-Inform+Taxi-Request+Hotel-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria Dei Cavalieri](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[L'Incanto Di Boccadarno](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Train-Inform+general-greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[two](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[five](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[swimming pool](Attraction-Type)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[2](Hotel-Stars)": {
+    "precision": 0.9230769230769231,
+    "recall": 1.0,
+    "f1-score": 0.9600000000000001,
+    "support": 12
+  },
+  "[Trattoria Della Faggiola](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[0845](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[upscale](Hotel-Price)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Tr2365](Train-Id)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Train-Request+Train-Inform": {
+    "precision": 0.04918032786885246,
+    "recall": 0.6,
+    "f1-score": 0.09090909090909091,
+    "support": 5
+  },
+  "[sushi](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[Il Chiesino](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Grand Hotel Continental](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[815](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Museo degli strumenti per il calcolo](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "Hotel-Request+Attraction-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[campiglia marittima](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.4,
+    "f1-score": 0.5714285714285715,
+    "support": 5
+  },
+  "[same people](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[845](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[East](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[osteria del pinzagrilli](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1645](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Piscina La Fornace](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1445](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_Train-OfferBook": {
+    "precision": 0.08333333333333333,
+    "recall": 0.046511627906976744,
+    "f1-score": 0.059701492537313425,
+    "support": 43
+  },
+  "[2030](Train-Arrive)": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9090909090909091,
+    "support": 5
+  },
+  "general-thank+Taxi-Request": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 1
+  },
+  "[Lucca](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[wine shop](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.1111111111111111,
+    "f1-score": 0.19999999999999998,
+    "support": 9
+  },
+  "[Ristorante Il Cucciolo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[questura di pisa](Police-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Xin Zhong Guo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "deny": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Piscina La Fornace](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1530](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[915](Train-Leave)": {
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1-score": 0.5,
+    "support": 2
+  },
+  "[1615](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1745](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1623](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[3](Train-People)": {
+    "precision": 0.9285714285714286,
+    "recall": 0.7647058823529411,
+    "f1-score": 0.8387096774193549,
+    "support": 17
+  },
+  "[1015](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1715](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[nightclub](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "utter_Restaurant-Recommend": {
+    "precision": 0.2,
+    "recall": 0.061224489795918366,
+    "f1-score": 0.09375,
+    "support": 49
+  },
+  "[jamaican](Restaurant-Food)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 1
+  },
+  "[1545](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "utter_general-greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 82
+  },
+  "[wednesday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.896551724137931,
+    "f1-score": 0.9454545454545454,
+    "support": 29
+  },
+  "[1045](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1245](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[Romanian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[massa centro](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.4,
+    "f1-score": 0.5714285714285715,
+    "support": 5
+  },
+  "[museo nazionale di palazzo reale](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[The Gallery](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Touring](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "utter_Train-Inform": {
+    "precision": 0.7195301027900147,
+    "recall": 0.8019639934533551,
+    "f1-score": 0.7585139318885449,
+    "support": 611
+  },
+  "[Ristorante Vito Re Della Pizza](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[three](Hotel-Stay)": {
+    "precision": 0.5714285714285714,
+    "recall": 1.0,
+    "f1-score": 0.7272727272727273,
+    "support": 4
+  },
+  "[bologna](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Pistoia](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 14
+  },
+  "[1900](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Ristorante La Vecchia Cascina](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[4](Hotel-Stay)": {
+    "precision": 0.9069767441860465,
+    "recall": 0.9512195121951219,
+    "f1-score": 0.9285714285714286,
+    "support": 41
+  },
+  "[Three](Hotel-Stay)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Parco Divertimenti Piccolo Mondo](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "Restaurant-Inform+general-greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[San Ranieri Hotel](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[il chiesino](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2100](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[Cecina](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.9,
+    "support": 11
+  },
+  "[5](Train-People)": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8,
+    "f1-score": 0.8275862068965518,
+    "support": 15
+  },
+  "[1400](Restaurant-Time)": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9090909090909091,
+    "support": 5
+  },
+  "[Dipartimento di Scienze Agrarie, Alimentari e Agro-ambientali](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2-stars](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1045](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[1517](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1315](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[zero](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1](Restaurant-People)": {
+    "precision": 0.9444444444444444,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9444444444444444,
+    "support": 18
+  },
+  "[singaporean](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1900](Restaurant-Time)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[theater](Attraction-Type)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[tuscan](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.9761904761904762,
+    "f1-score": 0.9879518072289156,
+    "support": 84
+  },
+  "[Boboba](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "general-greet": {
+    "precision": 0.3,
+    "recall": 0.5,
+    "f1-score": 0.37499999999999994,
+    "support": 12
+  },
+  "[Dipartimento di Economia e Management](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "utter_goodbye": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Dipartimento di Biologia - Polo Didattico Nobili](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1345](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[Grosseto](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Leonardo](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1-score": 0.4,
+    "support": 4
+  },
+  "utter_iamabot": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Bristol](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 3
+  },
+  "[corsica](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Restaurant-Inform+Attraction-Request+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1115](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9565217391304348,
+    "support": 12
+  },
+  "[saturday](Train-Day)": {
+    "precision": 0.9736842105263158,
+    "recall": 0.9736842105263158,
+    "f1-score": 0.9736842105263158,
+    "support": 38
+  },
+  "[five](Hotel-Stay)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[same group](Restaurant-People)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[osteria di ceppato](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Museo della geotermia](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[3](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18
+  },
+  "[Siena](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "Restaurant-Inform+Taxi-Inform": {
+    "precision": 0.1111111111111111,
+    "recall": 0.5,
+    "f1-score": 0.1818181818181818,
+    "support": 2
+  },
+  "[Dipartimento di Matematica](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[10 am](Train-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1815](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "[2230](Taxi-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[same part of town](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[near the restaurant](Attraction-Area)": {
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "f1-score": 0.5,
+    "support": 1
+  },
+  "[Wednesday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 0.8823529411764706,
+    "f1-score": 0.9375,
+    "support": 17
+  },
+  "[Moderno](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Parco di Mau](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "Train-Inform+Hotel-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[north](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6
+  },
+  "Hotel-Request+Hotel-Inform": {
+    "precision": 0.16666666666666666,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.2222222222222222,
+    "support": 21
+  },
+  "[2-star](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[ristorante greco itaca](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1645](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[Grand Hotel Duomo](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6
+  },
+  "[sunday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.9761904761904762,
+    "f1-score": 0.9879518072289156,
+    "support": 42
+  },
+  "[Monday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 17
+  },
+  "[445](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[same price range](Hotel-Price)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "Hotel-Inform+Booking-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[entertainment](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 25
+  },
+  "[2145](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[La Pergoletta](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1545](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[sports](Attraction-Type)": {
+    "precision": 0.3333333333333333,
+    "recall": 0.5,
+    "f1-score": 0.4,
+    "support": 2
+  },
+  "[0930](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2145](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "Attraction-Inform+Hotel-Request+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[ristorante la faeta](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[the attraction](Taxi-Depart)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "Hotel-Inform+Hotel-Request+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Monday](Train-Day)": {
+    "precision": 0.9166666666666666,
+    "recall": 0.8461538461538461,
+    "f1-score": 0.8799999999999999,
+    "support": 13
+  },
+  "[Sunday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9714285714285714,
+    "support": 18
+  },
+  "[borderline club](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Friday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 0.95,
+    "f1-score": 0.9743589743589743,
+    "support": 20
+  },
+  "[Saturday](Hotel-Day)": {
+    "precision": 0.9310344827586207,
+    "recall": 1.0,
+    "f1-score": 0.9642857142857143,
+    "support": 27
+  },
+  "[1345](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Middle Eastern](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1000](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[grosseto](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Ristorante Barbarossa](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Montelupo-Capraia](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "[same area](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9565217391304348,
+    "support": 12
+  },
+  "[Il Campano](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "utter_Hotel-NoOffer": {
+    "precision": 0.375,
+    "recall": 0.11538461538461539,
+    "f1-score": 0.1764705882352941,
+    "support": 26
+  },
+  "[Ristorante Il Geranio](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[two](Train-People)": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.888888888888889,
+    "support": 4
+  },
+  "[grand hotel continental](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Inform+general-thank": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Attraction-Inform+general-thank": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1730](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[2130](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[Tuesday](Restaurant-Day)": {
+    "precision": 0.9333333333333333,
+    "recall": 1.0,
+    "f1-score": 0.9655172413793104,
+    "support": 14
+  },
+  "[5](Hotel-People)": {
+    "precision": 0.9615384615384616,
+    "recall": 0.9259259259259259,
+    "f1-score": 0.9433962264150944,
+    "support": 27
+  },
+  "[calabrian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "utter_Train-Select": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6
+  },
+  "[Osteria Alpaca Country House](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[architectures](Attraction-Type)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Tuesday](Hotel-Day)": {
+    "precision": 0.95,
+    "recall": 0.95,
+    "f1-score": 0.9500000000000001,
+    "support": 20
+  },
+  "[Museo nazionale di San Matteo](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[701](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Brazilian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2100](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[bologna centrale](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "[Ristorante Enoteca Del Duca](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[molecular gastronomy](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1600](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "Attraction-Inform": {
+    "precision": 0.8599348534201955,
+    "recall": 0.7833827893175074,
+    "f1-score": 0.8198757763975156,
+    "support": 337
+  },
+  "[0230](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[southern](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1445](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[La Cantina Dei Crociati](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[pistoia](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[Bologna](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[915,please](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform+Restaurant-Inform": {
+    "precision": 0.7142857142857143,
+    "recall": 0.2777777777777778,
+    "f1-score": 0.4,
+    "support": 18
+  },
+  "[one](Train-People)": {
+    "precision": 0.8260869565217391,
+    "recall": 1.0,
+    "f1-score": 0.9047619047619047,
+    "support": 19
+  },
+  "[6](Restaurant-People)": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 22
+  },
+  "[Boboba](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[parco naturale di migliarino - san rossore - massaciuccoli](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "utter_Train-NoOffer": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7
+  },
+  "[1845](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[three](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[Museo etrusco Guarnacci](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "None": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 875
+  },
+  "Attraction-Inform+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[expensive](Hotel-Price)": {
+    "precision": 0.9148936170212766,
+    "recall": 0.86,
+    "f1-score": 0.8865979381443299,
+    "support": 50
+  },
+  "[1915](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[sardinian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Museo delle attivit#u00e0 agricole di Usigliano di Lari](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[ristorante ni hao](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Museo della Storia Antica del territorio di Bientina](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Euro Hotel](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Campiglia Marittima](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.7,
+    "f1-score": 0.8235294117647058,
+    "support": 10
+  },
+  "[east](Hotel-Area)": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.888888888888889,
+    "support": 16
+  },
+  "Train-Inform+Hotel-Request+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Taxi-Inform+Hotel-Inform": {
+    "precision": 0.4,
+    "recall": 0.4,
+    "f1-score": 0.4000000000000001,
+    "support": 10
+  },
+  "[1530](Train-Arrive)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "[1000](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "general-welcome": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1115](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[cecina](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[1715](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1630](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1115](Taxi-Leave)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[yellow skoda](Taxi-Car)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Massa Centro](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 12
+  },
+  "[montelupo-capraia](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6
+  },
+  "[tr7804](Train-Id)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Moroccan](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[0845](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[La Vecchia Pieve](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1500](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[1800](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[1730](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "[1445](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[950](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[the church](Taxi-Depart)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "Restaurant-Inform+Hotel-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "goodbye": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[10 AM](Train-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Train-Inform+Train-Request+Hotel-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1845](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.923076923076923,
+    "support": 7
+  },
+  "[1415](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1815](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[1](Hotel-Stay)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[ristorante la grotta](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1030](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[livorno centrale](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 6
+  },
+  "[0530](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[saturday](Restaurant-Day)": {
+    "precision": 0.9444444444444444,
+    "recall": 1.0,
+    "f1-score": 0.9714285714285714,
+    "support": 17
+  },
+  "[ristorante castelvecchio - villa sonnino](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Ristorante I Sette Nani](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1](Train-People)": {
+    "precision": 0.9,
+    "recall": 0.8181818181818182,
+    "f1-score": 0.8571428571428572,
+    "support": 11
+  },
+  "[people Portraits Exhibit](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Centre](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Enoteca La Dolce Vite](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "utter_Taxi-Inform": {
+    "precision": 0.7987421383647799,
+    "recall": 0.8355263157894737,
+    "f1-score": 0.8167202572347266,
+    "support": 152
+  },
+  "Hotel-Inform+Restaurant-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[architecture](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14
+  },
+  "[Family Beach Village Regina Del Mare](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1200](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[8](Train-People)": {
+    "precision": 0.9523809523809523,
+    "recall": 1.0,
+    "f1-score": 0.975609756097561,
+    "support": 20
+  },
+  "[Dipartimento di Civilt#u00e0 e Forme del Sapere](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "general-thank+Train-Inform": {
+    "precision": 0.5,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.4,
+    "support": 3
+  },
+  "[museo nazionale della certosa monumentale di pisa](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[two](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1315](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Saturday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 12
+  },
+  "[the booked time](Taxi-Arrive)": {
+    "precision": 0.4,
+    "recall": 1.0,
+    "f1-score": 0.5714285714285715,
+    "support": 2
+  },
+  "[south italian](Restaurant-Food)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[7](Train-People)": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9565217391304348,
+    "f1-score": 0.9361702127659574,
+    "support": 23
+  },
+  "[1830](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "Hotel-Inform+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1300](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "[Parco di Viale delle Piagge](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1145](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "[Barlume Caf#u00e9](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Livorno Centrale](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 8
+  },
+  "[il barrino](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1230](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "utter_Attraction-NoOffer": {
+    "precision": 0.5,
+    "recall": 0.2,
+    "f1-score": 0.28571428571428575,
+    "support": 25
+  },
+  "Train-OfferBook": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[museum](Attraction-Type)": {
+    "precision": 0.9387755102040817,
+    "recall": 0.9387755102040817,
+    "f1-score": 0.9387755102040817,
+    "support": 49
+  },
+  "[any](Restaurant-Area)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Persian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Camposanto monumentale](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Sarzana](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[five](Hotel-Stars)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1630](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1845](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[Irish](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[cantonese](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[seven](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "Taxi-Inform+Hotel-Inform+Taxi-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Same group of people](Train-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Riviera Blu](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.1111111111111111,
+    "f1-score": 0.19999999999999998,
+    "support": 9
+  },
+  "[centre](Restaurant-Area)": {
+    "precision": 0.8636363636363636,
+    "recall": 0.957983193277311,
+    "f1-score": 0.9083665338645418,
+    "support": 119
+  },
+  "[1615](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1145](Train-Leave)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[wednesday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 10
+  },
+  "[1340](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[east](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 0.9047619047619048,
+    "f1-score": 0.9500000000000001,
+    "support": 21
+  },
+  "[Dipartimento di Fisica](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[5](Restaurant-People)": {
+    "precision": 0.9090909090909091,
+    "recall": 0.8695652173913043,
+    "f1-score": 0.888888888888889,
+    "support": 23
+  },
+  "[Expensive](Hotel-Price)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[My One Hotel Galilei](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[same side](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Attraction-Request+Attraction-Inform": {
+    "precision": 0.16666666666666666,
+    "recall": 0.1,
+    "f1-score": 0.125,
+    "support": 20
+  },
+  "Hotel-Inform+Taxi-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[pisa centrale](Train-Dest)": {
+    "precision": 0.9821428571428571,
+    "recall": 0.2972972972972973,
+    "f1-score": 0.4564315352697096,
+    "support": 185
+  },
+  "[Massa Centro](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6,
+    "f1-score": 0.7499999999999999,
+    "support": 5
+  },
+  "affirm": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1145](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Ristorante La Buca](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[845](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Attraction-Inform+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[same group of people](Train-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[cheap](Restaurant-Price)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 39
+  },
+  "[Swedish](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Al Madina specialit#u00e0 Mediorientali Pisa](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[ristorante il foro](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1645](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[siena](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9565217391304348,
+    "support": 12
+  },
+  "[Francesco](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[la taverna dei gabbiani](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[pizzeria l'arancio](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[modern eclectic](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "general-bye": {
+    "precision": 0.9263157894736842,
+    "recall": 0.8979591836734694,
+    "f1-score": 0.911917098445596,
+    "support": 98
+  },
+  "[sicilian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Montelupo-Capraia](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[ristorante enoteca del duca](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[greek](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[the hotel](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 12
+  },
+  "Train-Inform+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Taxi-Inform+Restaurant-Inform+Taxi-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[near the hotel](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[battello sull'arno andrea da pontedera](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[2015](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[north](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 0.9523809523809523,
+    "f1-score": 0.975609756097561,
+    "support": 21
+  },
+  "[Thursday](Restaurant-Day)": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 11
+  },
+  "[corsican](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Hotel-Inform+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 8
+  },
+  "[9](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[kyoto japan sushi & delivery](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[900](Train-Arrive)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[0800](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[dipartimento di informatica](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[pisa lodge restaurant](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1245](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1445](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[la vecchia pieve](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Le Scuderie](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[american](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "Hotel-Inform+Hotel-Request+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[715](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[0145](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Teatro Sant'Andrea](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[0330](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_Train-OfferBooked": {
+    "precision": 0.3626373626373626,
+    "recall": 0.4074074074074074,
+    "f1-score": 0.3837209302325581,
+    "support": 81
+  },
+  "[4](Hotel-People)": {
+    "precision": 0.8333333333333334,
+    "recall": 0.9375,
+    "f1-score": 0.8823529411764706,
+    "support": 16
+  },
+  "[Grand Hotel Golf](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[from hotel](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Attraction-Inform+Train-Inform+Train-Request": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "general-bye+general-welcome": {
+    "precision": 0.3333333333333333,
+    "recall": 0.5,
+    "f1-score": 0.4,
+    "support": 2
+  },
+  "[1100](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[montelupo-capraia](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria Dei Poeti Volterra](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1230](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "utter_general-reqmore": {
+    "precision": 0.4083333333333333,
+    "recall": 0.25476603119584057,
+    "f1-score": 0.31376734258271083,
+    "support": 577
+  },
+  "[chinese](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.9761904761904762,
+    "f1-score": 0.9879518072289156,
+    "support": 42
+  },
+  "[Campiglia Marittima](Train-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Livorno Centrale](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.3076923076923077,
+    "f1-score": 0.47058823529411764,
+    "support": 13
+  },
+  "utter_did_that_help": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[1807](Train-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2045](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[the attraction](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[america graffiti](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2100](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[same area](Restaurant-Area)": {
+    "precision": 0.9,
+    "recall": 1.0,
+    "f1-score": 0.9473684210526316,
+    "support": 9
+  },
+  "[Namast#u00e8 India](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "Taxi-Request+Attraction-Inform+Hotel-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[center](Restaurant-Area)": {
+    "precision": 0.6956521739130435,
+    "recall": 1.0,
+    "f1-score": 0.8205128205128205,
+    "support": 16
+  },
+  "[Grosseto](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[Xin Zhong Guo](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[sleeperz hotel](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[cheaply](Hotel-Price)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Osterua Dell'Usignolo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2430](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[does n't matter](Restaurant-Area)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[ristorante lanterna blu](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[osteria del pinzagrilli](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Lumiere](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Taxi-Inform+Attraction-Inform+Restaurant-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[mahal of pisa](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[4](Train-People)": {
+    "precision": 0.9130434782608695,
+    "recall": 0.9130434782608695,
+    "f1-score": 0.9130434782608695,
+    "support": 23
+  },
+  "[0-star](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2](Restaurant-People)": {
+    "precision": 0.9411764705882353,
+    "recall": 0.9411764705882353,
+    "f1-score": 0.9411764705882353,
+    "support": 17
+  },
+  "[1440](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2315](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[canapes](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1430](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "utter_Hotel-Recommend": {
+    "precision": 0.125,
+    "recall": 0.011904761904761904,
+    "f1-score": 0.021739130434782605,
+    "support": 84
+  },
+  "[grand hotel golf](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[bristol](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Hotel Ristorante Enoteca Hosteria Il Malandrone](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[same day](Train-Day)": {
+    "precision": 0.9,
+    "recall": 0.9,
+    "f1-score": 0.9,
+    "support": 10
+  },
+  "[battello sull'arno andrea da pontedera](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[that day](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[L'Arte Del Bere E...](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[expensive](Restaurant-Price)": {
+    "precision": 0.905511811023622,
+    "recall": 0.9663865546218487,
+    "f1-score": 0.934959349593496,
+    "support": 119
+  },
+  "[East](Hotel-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[green park resort](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[il pineto parco avventura](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[polynesian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Basque](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Centre](Restaurant-Area)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 1
+  },
+  "[100](Taxi-Leave)": {
+    "precision": 0.3333333333333333,
+    "recall": 1.0,
+    "f1-score": 0.5,
+    "support": 1
+  },
+  "[Leopolda](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.7142857142857143,
+    "f1-score": 0.8333333333333333,
+    "support": 7
+  },
+  "[830](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Ristorante Nando](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1030](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[dipartimento di scienze della terra](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Casa Della Bania](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1700](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[6](Train-People)": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1-score": 0.9333333333333333,
+    "support": 24
+  },
+  "[tuesday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[3](Restaurant-People)": {
+    "precision": 0.8846153846153846,
+    "recall": 0.9583333333333334,
+    "f1-score": 0.9199999999999999,
+    "support": 24
+  },
+  "[1745](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "[Any](Attraction-Type)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 1
+  },
+  "Train-Inform+Train-OfferBooked": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "mood_unhappy": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[ristorante la buca](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[red tesla](Taxi-Car)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[unusual](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[the hotel](Taxi-Depart)": {
+    "precision": 0.75,
+    "recall": 0.8571428571428571,
+    "f1-score": 0.7999999999999999,
+    "support": 21
+  },
+  "general": {
+    "precision": 0.6722689075630253,
+    "recall": 0.8163265306122449,
+    "f1-score": 0.7373271889400922,
+    "support": 196
+  },
+  "[Osteria Vecchia Noce](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ecomuseo dell'alabastro](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[saint john 's university](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0950](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[La Taverna Dei Ghiottoni](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[6](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 18
+  },
+  "utter_Taxi-Request": {
+    "precision": 0.7745098039215687,
+    "recall": 0.6752136752136753,
+    "f1-score": 0.7214611872146119,
+    "support": 117
+  },
+  "[montelupo-capraia](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[chiesa di santa maria della spina](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[cinemas](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1415](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Friday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 0.92,
+    "f1-score": 0.9583333333333334,
+    "support": 25
+  },
+  "[Same group of people](Hotel-People)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Chiesa Nazionale di Santo Stefano dei Cavalieri](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[venetian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[pistoia](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "[three](Train-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[835](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[South](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[tourism](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 8
+  },
+  "Hotel-Inform+Taxi-Request+Taxi-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Edo Sushi Place](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1430](Taxi-Arrive)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "[1230](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1015](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1430](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.9090909090909091,
+    "support": 6
+  },
+  "utter_Train-Request": {
+    "precision": 0.5833333333333334,
+    "recall": 0.555956678700361,
+    "f1-score": 0.5693160813308688,
+    "support": 277
+  },
+  "[4](Hotel-Stars)": {
+    "precision": 0.96,
+    "recall": 0.9795918367346939,
+    "f1-score": 0.9696969696969697,
+    "support": 49
+  },
+  "[same location](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[930](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Piscina Comunale](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Pizzeria Martino](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[West](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 3
+  },
+  "[1245](Train-Arrive)": {
+    "precision": 0.7142857142857143,
+    "recall": 1.0,
+    "f1-score": 0.8333333333333333,
+    "support": 5
+  },
+  "[1315](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.8750000000000001,
+    "support": 9
+  },
+  "[0715](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Ristorante Il Tinaio](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Request+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7
+  },
+  "Restaurant-Inform+Restaurant-Request": {
+    "precision": 0.6764705882352942,
+    "recall": 0.3108108108108108,
+    "f1-score": 0.42592592592592593,
+    "support": 74
+  },
+  "Train-Inform": {
+    "precision": 0.9300947867298578,
+    "recall": 0.9224441833137486,
+    "f1-score": 0.9262536873156342,
+    "support": 851
+  },
+  "utter_Hotel-Select": {
+    "precision": 0.3333333333333333,
+    "recall": 0.022222222222222223,
+    "f1-score": 0.04166666666666667,
+    "support": 45
+  },
+  "[osterua dell'usignolo](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[ristorante da gino](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1145](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[etna street-food](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Polish](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_Booking-Request": {
+    "precision": 0.5555555555555556,
+    "recall": 0.3017241379310345,
+    "f1-score": 0.39106145251396646,
+    "support": 116
+  },
+  "general-thank+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Ciclilandia](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[bagno imperiale](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[thursday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "[ristorante lanterna blu](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[piscina comunale](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[the restaurant](Taxi-Dest)": {
+    "precision": 0.7741935483870968,
+    "recall": 0.8,
+    "f1-score": 0.7868852459016393,
+    "support": 30
+  },
+  "[trattoria](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[1930](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[ristorante lanterna blu](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[siena](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "Attraction-Request+Train-Request+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Attraction-Inform+Restaurant-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Taxi-Request": {
+    "precision": 0.46153846153846156,
+    "recall": 0.5,
+    "f1-score": 0.48000000000000004,
+    "support": 12
+  },
+  "[1115](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[2](Hotel-Stay)": {
+    "precision": 0.8333333333333334,
+    "recall": 0.9615384615384616,
+    "f1-score": 0.8928571428571429,
+    "support": 26
+  },
+  "Taxi-Request+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "utter_Hotel-Inform": {
+    "precision": 0.5363636363636364,
+    "recall": 0.271889400921659,
+    "f1-score": 0.36085626911314983,
+    "support": 217
+  },
+  "[1215](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1-score": 0.9333333333333333,
+    "support": 8
+  },
+  "[1345](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "Attraction-Inform+Hotel-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Dipartimento di Chimica e Chimica Industriale](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[modern global](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1815](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "Hotel-Inform+Hotel-Request": {
+    "precision": 0.47368421052631576,
+    "recall": 0.3,
+    "f1-score": 0.3673469387755102,
+    "support": 60
+  },
+  "[ristorante il merlo](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Train-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Minerva](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[il pappafico](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1515](Train-Leave)": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.888888888888889,
+    "support": 4
+  },
+  "[parco di mau](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0945](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1415](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[not](Hotel-Area)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[8](Restaurant-People)": {
+    "precision": 0.9666666666666667,
+    "recall": 1.0,
+    "f1-score": 0.983050847457627,
+    "support": 29
+  },
+  "[barlume caf#u00e9](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Train-Inform+Attraction-Request+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Ombra Della Sera](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[leopolda](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Attraction-Inform+Train-Inform": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[7](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 13
+  },
+  "[chiesa di san frediano](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Hotel-Inform+Hotel-NoOffer": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[center](Attraction-Area)": {
+    "precision": 0.4,
+    "recall": 1.0,
+    "f1-score": 0.5714285714285715,
+    "support": 4
+  },
+  "general-greet+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1400](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[south](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 0.7727272727272727,
+    "f1-score": 0.8717948717948718,
+    "support": 22
+  },
+  "[2](Hotel-People)": {
+    "precision": 0.9166666666666666,
+    "recall": 0.9166666666666666,
+    "f1-score": 0.9166666666666666,
+    "support": 12
+  },
+  "[1300](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[family beach village regina del mare](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2115](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[600](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[0900](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "Taxi-Inform+Attraction-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "Taxi-Inform+Taxi-Request+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1630](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[Dipartimento di Ingegneria Civile e Industriale](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[middle Eastern](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "general-thank+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[monday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 34
+  },
+  "[italian](Restaurant-Food)": {
+    "precision": 0.8888888888888888,
+    "recall": 1.0,
+    "f1-score": 0.9411764705882353,
+    "support": 8
+  },
+  "[Ristorante La Curva Made in Sicily](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[7](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 0.9642857142857143,
+    "f1-score": 0.9818181818181818,
+    "support": 28
+  },
+  "[1515](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[villa primavera](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "utter_Booking-Inform": {
+    "precision": 0.3159851301115242,
+    "recall": 0.2599388379204893,
+    "f1-score": 0.2852348993288591,
+    "support": 327
+  },
+  "[0130](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[3](Hotel-People)": {
+    "precision": 0.9166666666666666,
+    "recall": 0.8148148148148148,
+    "f1-score": 0.8627450980392156,
+    "support": 27
+  },
+  "[La Taverna Dei Gabbiani](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[pisa punte](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[915](Train-Arrive)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "[chiesa di santa maria della spina](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[north](Hotel-Area)": {
+    "precision": 0.95,
+    "recall": 1.0,
+    "f1-score": 0.9743589743589743,
+    "support": 38
+  },
+  "[1330](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 11
+  },
+  "[museums](Attraction-Type)": {
+    "precision": 0.8666666666666667,
+    "recall": 1.0,
+    "f1-score": 0.9285714285714286,
+    "support": 13
+  },
+  "[Museo della geotermia](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[mediterranean](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[grosseto](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.9090909090909091,
+    "f1-score": 0.9523809523809523,
+    "support": 11
+  },
+  "[cinema](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[1715](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[1215](Train-Arrive)": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9090909090909091,
+    "support": 5
+  },
+  "[Ristorante Il Turista](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 4
+  },
+  "[Di Stefano](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[Cinema Arsenale](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[la vecchia pieve](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "general-bye+general-greet": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Attraction-Inform+Restaurant-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[il campano](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1716](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[steakhouse](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1715](Train-Leave)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[three](Restaurant-Choice)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1700](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[four](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[multisala odeon pisa](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[the restaurant](Taxi-Depart)": {
+    "precision": 0.75,
+    "recall": 0.9,
+    "f1-score": 0.8181818181818182,
+    "support": 10
+  },
+  "utter_general-bye": {
+    "precision": 0.7733333333333333,
+    "recall": 0.7656765676567657,
+    "f1-score": 0.769485903814262,
+    "support": 606
+  },
+  "utter_Attraction-Recommend": {
+    "precision": 0.24752475247524752,
+    "recall": 0.2808988764044944,
+    "f1-score": 0.2631578947368421,
+    "support": 89
+  },
+  "[815](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[six](Train-People)": {
+    "precision": 0.7142857142857143,
+    "recall": 1.0,
+    "f1-score": 0.8333333333333333,
+    "support": 5
+  },
+  "[old churches](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1100](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Sunday](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14
+  },
+  "[1015](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[centre](Attraction-Area)": {
+    "precision": 0.9493670886075949,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8875739644970415,
+    "support": 90
+  },
+  "[teatro nuovo](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Restaurant-Inform+Hotel-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Ristorante Di Campagna Podere Borgaruccio](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Parco di Mau](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[open gate](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[cafe jello museum](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Ristorante Il Turista](Taxi-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2115](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1945](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[eritrean](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Hotel-Request": {
+    "precision": 0.4166666666666667,
+    "recall": 0.3472222222222222,
+    "f1-score": 0.37878787878787884,
+    "support": 72
+  },
+  "[1245](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[night club](Attraction-Type)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[sunday](Restaurant-Day)": {
+    "precision": 0.9166666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9565217391304348,
+    "support": 11
+  },
+  "[1615](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 5
+  },
+  "[1745](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[la citt#u00e0 del teatro](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Chiesa di San Frediano](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[same area](Hotel-Area)": {
+    "precision": 0.8888888888888888,
+    "recall": 0.8888888888888888,
+    "f1-score": 0.8888888888888888,
+    "support": 9
+  },
+  "[Firenze S. M. Novella](Train-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 10
+  },
+  "[1400](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[six](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "[rinascente](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Taxi-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "utter_Attraction-Select": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 35
+  },
+  "Restaurant-Inform+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 12
+  },
+  "Restaurant-Inform+Train-Request+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Moderate](Restaurant-Price)": {
+    "precision": 0.6,
+    "recall": 1.0,
+    "f1-score": 0.7499999999999999,
+    "support": 3
+  },
+  "[2040](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Greco Itaca](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Ristorante Indiano Tanduri](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[La Pace](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[chiesa nazionale di santo stefano dei cavalieri](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[1600](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "general-thank+Hotel-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1530](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[theatres](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1730](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[Friday](Restaurant-Day)": {
+    "precision": 0.8636363636363636,
+    "recall": 1.0,
+    "f1-score": 0.9268292682926829,
+    "support": 19
+  },
+  "[vegetarian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1600](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1830](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[2015](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[300](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2130](Taxi-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[tuesday](Restaurant-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 9
+  },
+  "Train-Inform+Hotel-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Enoteca Del Duca](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[2045](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1200](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "[one](Hotel-Stay)": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.888888888888889,
+    "support": 8
+  },
+  "[Moderno](Hotel-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5
+  },
+  "[cecina](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 3
+  },
+  "[4-star](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[cheap](Hotel-Price)": {
+    "precision": 0.9791666666666666,
+    "recall": 1.0,
+    "f1-score": 0.9894736842105264,
+    "support": 47
+  },
+  "[parco di mau](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[creative](Restaurant-Food)": {
+    "precision": 0.75,
+    "recall": 1.0,
+    "f1-score": 0.8571428571428571,
+    "support": 3
+  },
+  "[1230](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[il chiesino](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Siena](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "[0900](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Museo di storia naturale dell'Universit#u00e0 di Pisa](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[La Taverna Di Emma](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[monday](Restaurant-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 20
+  },
+  "[2](Train-People)": {
+    "precision": 1.0,
+    "recall": 0.9444444444444444,
+    "f1-score": 0.9714285714285714,
+    "support": 18
+  },
+  "[ristorante il geranio](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1730](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2400](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1400](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[2000](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Grand Hotel Duomo](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1200](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1745](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[parks](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[0845](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[dipartimento di scienze veterinarie](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[cheaply](Restaurant-Price)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[same day](Hotel-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[Same group of people](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[4.40 euros](Train-Ticket)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Entertainment](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "utter_Restaurant-NoOffer": {
+    "precision": 0.05755395683453238,
+    "recall": 0.2222222222222222,
+    "f1-score": 0.09142857142857144,
+    "support": 36
+  },
+  "[1200](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Ristorante Cinese Oriente](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "general-thank+Train-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Piscina Cisanello](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Teatro del Silenzio](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[one](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "Train-Request": {
+    "precision": 0.7733333333333333,
+    "recall": 0.8854961832061069,
+    "f1-score": 0.8256227758007118,
+    "support": 131
+  },
+  "[Anima di Grano Pizzeria Napoletana](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1700](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[Dipartimento di Filologia, Letteratura e Linguistica](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "Train-Inform+Restaurant-Inform+Restaurant-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "utter_general-welcome": {
+    "precision": 0.08333333333333333,
+    "recall": 0.011111111111111112,
+    "f1-score": 0.0196078431372549,
+    "support": 90
+  },
+  "[0640](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Ristorante Ombra Della Sera](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[1500](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1100](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[close to the restaurant](Attraction-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[Chiesa Nazionale di Santo Stefano dei Cavalieri](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[5](Hotel-Stay)": {
+    "precision": 0.8695652173913043,
+    "recall": 1.0,
+    "f1-score": 0.9302325581395349,
+    "support": 40
+  },
+  "[Casa Museo Gualerci Nicola](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Pinacoteca e museo civico di Volterra](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[0915](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Open Gate](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[four](Hotel-Stay)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[sarzana](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 7
+  },
+  "Attraction-Request": {
+    "precision": 0.696969696969697,
+    "recall": 0.7285067873303167,
+    "f1-score": 0.7123893805309734,
+    "support": 221
+  },
+  "[1800](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "[university](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 0.6842105263157895,
+    "f1-score": 0.8125000000000001,
+    "support": 38
+  },
+  "[lucca](Taxi-Dest)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[sarzana](Train-Dest)": {
+    "precision": 1.0,
+    "recall": 0.9230769230769231,
+    "f1-score": 0.9600000000000001,
+    "support": 13
+  },
+  "[two](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[Villa Primavera](Taxi-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[same part of town](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1345](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[Tuesday](Train-Day)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 13
+  },
+  "[wednesday](Restaurant-Day)": {
+    "precision": 0.7222222222222222,
+    "recall": 1.0,
+    "f1-score": 0.8387096774193548,
+    "support": 13
+  },
+  "[2330](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[west](Hotel-Area)": {
+    "precision": 0.5,
+    "recall": 1.0,
+    "f1-score": 0.6666666666666666,
+    "support": 11
+  },
+  "Attraction-Inform+Train-Inform+Attraction-Request": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Pane E Vino](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "Train-Inform+Restaurant-Inform": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 3
+  },
+  "[North](Hotel-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[2000](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 0.7,
+    "f1-score": 0.8235294117647058,
+    "support": 10
+  },
+  "[0915](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[1430](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Bagno Imperiale](Attraction-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[ecomuseo dell'alabastro](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[west](Restaurant-Area)": {
+    "precision": 0.9444444444444444,
+    "recall": 0.7391304347826086,
+    "f1-score": 0.8292682926829269,
+    "support": 23
+  },
+  "[Giardino Tower Inn](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.6,
+    "f1-score": 0.7499999999999999,
+    "support": 5
+  },
+  "[Pizzeria Bella Napoli](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Firenze S. M. Novella](Train-Depart)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6
+  },
+  "[1700](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1830](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[Moderately](Hotel-Price)": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6666666666666666,
+    "support": 3
+  },
+  "[Astor](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[8](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 0.8947368421052632,
+    "f1-score": 0.9444444444444444,
+    "support": 19
+  },
+  "[1645](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1-score": 0.6666666666666666,
+    "support": 2
+  },
+  "[halal](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[tr0189](Train-Id)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[meatballs](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[moderately](Hotel-Price)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 21
+  },
+  "[same amount of people](Hotel-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Taxi-Inform": {
+    "precision": 0.7791411042944786,
+    "recall": 0.7094972067039106,
+    "f1-score": 0.7426900584795323,
+    "support": 179
+  },
+  "[Moderately](Restaurant-Price)": {
+    "precision": 0.6666666666666666,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.6666666666666666,
+    "support": 3
+  },
+  "utter_Restaurant-Select": {
+    "precision": 0.3333333333333333,
+    "recall": 0.016129032258064516,
+    "f1-score": 0.03076923076923077,
+    "support": 62
+  },
+  "[Green Park Resort](Hotel-Name)": {
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1-score": 0.5,
+    "support": 3
+  },
+  "[la citt#u00e0 del teatro](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Osteria Santa Caterina](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[concert hall](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[Locanda Di Camugliano](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Museo di Icone Russe F. Bigazzi](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[multiple sports](Attraction-Type)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 8
+  },
+  "[Ristorante Da Gino](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4
+  },
+  "[Ristorante Il Geranio](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[napolitian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.8750000000000001,
+    "support": 9
+  },
+  "[Thursday](Train-Day)": {
+    "precision": 0.9375,
+    "recall": 0.9375,
+    "f1-score": 0.9375,
+    "support": 16
+  },
+  "[four](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[1930](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14
+  },
+  "[Weish](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[2 pm](Train-Leave)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[945](Taxi-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[3-star](Hotel-Stars)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[1515](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[Four](Restaurant-People)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1545](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[north italian](Restaurant-Food)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[ASD Nuoto La Gabella](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Bologna Centrale](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1-score": 0.8,
+    "support": 9
+  },
+  "[Ristorante Il Merlo](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Villa Dei Limoni](Restaurant-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[0600](Taxi-Arrive)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1
+  },
+  "[Eraina](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[the museum](Taxi-Depart)": {
+    "precision": 0.6666666666666666,
+    "recall": 1.0,
+    "f1-score": 0.8,
+    "support": 2
+  },
+  "[livorno centrale](Train-Depart)": {
+    "precision": 1.0,
+    "recall": 0.2,
+    "f1-score": 0.33333333333333337,
+    "support": 5
+  },
+  "[1000](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "Restaurant-Inform": {
+    "precision": 0.8981723237597912,
+    "recall": 0.890038809831824,
+    "f1-score": 0.8940870695256661,
+    "support": 773
+  },
+  "[2045](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[1440](Restaurant-Time)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[1900](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 5
+  },
+  "[800](Train-Arrive)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 3
+  },
+  "[Parco Giochi Lilliput](Attraction-Name)": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2
+  },
+  "[Sosta Dei Cavalieri](Restaurant-Name)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[2215](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "[1330](Train-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6
+  },
+  "[la pergoletta](Taxi-Dest)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[one](Hotel-People)": {
+    "precision": 0.8333333333333334,
+    "recall": 0.8333333333333334,
+    "f1-score": 0.8333333333333334,
+    "support": 6
+  },
+  "[2445](Taxi-Leave)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1
+  },
+  "[East](Restaurant-Area)": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 2
+  },
+  "micro avg": {
+    "precision": 0.791692498450093,
+    "recall": 0.7318750597000668,
+    "f1-score": 0.7606095200277957,
+    "support": 20938
+  },
+  "macro avg": {
+    "precision": 0.5774353389557645,
+    "recall": 0.5607221317018417,
+    "f1-score": 0.5594346524495906,
+    "support": 20938
+  },
+  "weighted avg": {
+    "precision": 0.7592495153834184,
+    "recall": 0.7318750597000668,
+    "f1-score": 0.7370057462368252,
+    "support": 20938
+  },
+  "accuracy": 0.7318750597000668,
+  "conversation_accuracy": {
+    "accuracy": 0.001483679525222552,
+    "correct": 1,
+    "with_warnings": 0,
+    "total": 674
+  }
+}

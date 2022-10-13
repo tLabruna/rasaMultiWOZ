@@ -1,0 +1,266 @@
+{
+  "Taxi-Arrive": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 44,
+    "confused_with": {}
+  },
+  "Restaurant-People": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 236,
+    "confused_with": {}
+  },
+  "Attraction-Addr": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {}
+  },
+  "Hotel-People": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 192,
+    "confused_with": {}
+  },
+  "Hotel-Stars": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 115,
+    "confused_with": {}
+  },
+  "Taxi-Leave": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 73,
+    "confused_with": {}
+  },
+  "Train-Arrive": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 234,
+    "confused_with": {}
+  },
+  "Police-Name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 6,
+    "confused_with": {}
+  },
+  "Attraction-Fee": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {}
+  },
+  "Taxi-Car": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 4,
+    "confused_with": {}
+  },
+  "Taxi-Depart": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 255,
+    "confused_with": {}
+  },
+  "Train-Dest": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 659,
+    "confused_with": {}
+  },
+  "Train-Depart": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 583,
+    "confused_with": {}
+  },
+  "Restaurant-Choice": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 1,
+    "confused_with": {}
+  },
+  "Hotel-Price": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 177,
+    "confused_with": {}
+  },
+  "Attraction-Type": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 230,
+    "confused_with": {}
+  },
+  "Train-Id": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 5,
+    "confused_with": {}
+  },
+  "Restaurant-Name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 436,
+    "confused_with": {}
+  },
+  "Hotel-Day": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 193,
+    "confused_with": {}
+  },
+  "Hotel-Area": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 129,
+    "confused_with": {}
+  },
+  "Attraction-Area": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 205,
+    "confused_with": {}
+  },
+  "Attraction-Name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 441,
+    "confused_with": {}
+  },
+  "Train-People": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 210,
+    "confused_with": {}
+  },
+  "Hotel-Type": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 221,
+    "confused_with": {}
+  },
+  "Train-Day": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 366,
+    "confused_with": {}
+  },
+  "Restaurant-Area": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 266,
+    "confused_with": {}
+  },
+  "Restaurant-Day": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 220,
+    "confused_with": {}
+  },
+  "Taxi-Dest": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 297,
+    "confused_with": {}
+  },
+  "Hotel-Stay": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 171,
+    "confused_with": {}
+  },
+  "Restaurant-Food": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 326,
+    "confused_with": {}
+  },
+  "Hotel-Name": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 233,
+    "confused_with": {}
+  },
+  "Restaurant-Time": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 239,
+    "confused_with": {}
+  },
+  "Restaurant-Price": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 245,
+    "confused_with": {}
+  },
+  "Train-Ticket": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2,
+    "confused_with": {}
+  },
+  "Train-Leave": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 157,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7174
+  },
+  "macro avg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7174
+  },
+  "weighted avg": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 7174
+  },
+  "accuracy": 0.8271616835714458
+}
